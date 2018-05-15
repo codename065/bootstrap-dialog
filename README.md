@@ -2,7 +2,7 @@
 Simple function to replace native alert, confirm or input dialog.
 
 # Usage
-```
+```javascript
 wpdm_boot_popup("Are You Sure?", "Deleting something here!",
         [{
             label: 'Yes',
