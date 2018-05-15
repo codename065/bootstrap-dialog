@@ -2,7 +2,7 @@
 Simple function to replace native alert, confirm or input dialog.
 
 # Usage
-<script>
+```
 wpdm_boot_popup("Are You Sure?", "Deleting something here!",
         [{
             label: 'Yes',
@@ -23,4 +23,4 @@ wpdm_boot_popup("Are You Sure?", "Deleting something here!",
             }
         }]
     );
-</script>
+```
